@@ -42,4 +42,3 @@ frameworks:
   - "JavaBuildpack::Framework::SpringAutoReconfiguration"
   - "JavaBuildpack::Framework::SpringInsight"
   - "JavaBuildpack::Framework::StagingTimestamp"
-
